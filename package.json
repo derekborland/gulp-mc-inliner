@@ -1,6 +1,6 @@
 {
   "name": "gulp-mc-inliner",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gulp plugin for inlining CSS throught MailChimps Inliner API",
   "main": "index.js",
   "scripts": {
