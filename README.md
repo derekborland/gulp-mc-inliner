@@ -45,3 +45,4 @@ Default: `false`
 
 Boolean value indicating to the MailChimp API whether to strip CSS from the head tag.
 
+This gulp plugin is a rewite of https://github.com/jayzawrotny/gulp-mc-inline-css with added option to specify whether or not to strip style tags from the head tag.
