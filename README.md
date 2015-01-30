@@ -1,5 +1,7 @@
-# gulp-mc-inliner [![NPM version][npm-image]][npm-url]
+# gulp-mc-inliner
 Gulp plugin for inlining CSS throught MailChimps Inliner API3
+
+[![NPM](https://nodei.co/npm/gulp-mc-inliner.png)](https://npmjs.org/package/gulp-mc-inliner)
 
 ## Usage
 
