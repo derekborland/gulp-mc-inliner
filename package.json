@@ -1,0 +1,19 @@
+{
+  "name": "gulp-mc-inliner",
+  "version": "0.0.1",
+  "description": "Gulp plugin for inlining CSS throught MailChimps Inliner API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Derek Borland <derekborland@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-util": "^3.0.2",
+    "mailchimp": "^1.1.0",
+    "mocha": "^2.1.0",
+    "path": "^0.11.14",
+    "should": "^4.6.2",
+    "through2": "^0.6.3"
+  }
+}
