@@ -6,8 +6,24 @@
   "scripts": {
     "test": "mocha"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/derekborland/gulp-mc-inliner.git"
+  },
+  "keywords": [
+    "gulp",
+    "mailchimp",
+    "inline",
+    "css",
+    "email",
+    "plugin"
+  ],
   "author": "Derek Borland <derekborland@gmail.com>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/derekborland/gulp-mc-inliner/issues"
+  },
+  "homepage": "https://github.com/derekborland/gulp-mc-inliner",
   "devDependencies": {
     "gulp-util": "^3.0.2",
     "mailchimp": "^1.1.0",
