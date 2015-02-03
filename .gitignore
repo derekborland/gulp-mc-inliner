@@ -3,4 +3,4 @@ gulpfile.js
 html
 email
 .DS_Store
-config/mailchimp.json
+config
