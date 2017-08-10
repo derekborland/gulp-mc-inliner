@@ -25,11 +25,13 @@
   },
   "homepage": "https://github.com/derekborland/gulp-mc-inliner",
   "devDependencies": {
-    "gulp-util": "^3.0.2",
-    "mailchimp": "^1.1.0",
     "mocha": "^2.1.0",
+    "should": "^4.6.2"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.2",
+    "mailchimp": "^1.2.0",
     "path": "^0.11.14",
-    "should": "^4.6.2",
     "through2": "^0.6.3"
   }
 }
